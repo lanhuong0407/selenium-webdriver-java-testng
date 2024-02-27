@@ -54,7 +54,7 @@ public class Topic_02_Selenium_Locator {
     }
     @Test
     public void TC_06_Partial_LinkText() {
-        //Độ chính xác không cao (tương đối0
+        //Độ chính xác không cao (tương đối)
         driver.findElement(By.partialLinkText("products list"));
 
     }
