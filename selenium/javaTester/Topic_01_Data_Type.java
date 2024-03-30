@@ -47,4 +47,5 @@ public class Topic_01_Data_Type {
     // Giá trị của biến- gán vào với dấu =
     // Nếu như không gán:dữ liệu mặc định
 
+
 }
