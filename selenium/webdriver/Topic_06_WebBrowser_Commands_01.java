@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 
-public class Topic_06_WebBrowser_Commands {
+public class Topic_06_WebBrowser_Commands_01 {
     WebDriver driver;
 
     @BeforeClass
@@ -59,7 +59,7 @@ public class Topic_06_WebBrowser_Commands {
 
 
         //Nếu chỉ dùng 1 lần, thì không cần khai báo biến
-       d
+
 
 
     }
